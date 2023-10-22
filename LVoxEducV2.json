@@ -1,7 +1,7 @@
 {
 	"name": "LiberVox EDUCATIONAL V2",
 	"version": "1.3.18",
-	"description": "A simple Facbook by mirai and remodified by Jonell MAGALLANES and FRANZ ANTHONY.",
+	"description": "A simple Facbook by mirai and remodified by FRANZ ANTHONY.",
 	"main": "mirai.js",
 	"scripts": {
 		"start": "node index",
